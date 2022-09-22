@@ -1,0 +1,11 @@
+{
+  "name": "NoChunkUnload",
+  "version": "1.0",
+  "description": "Cancels SPacketUnloadChunk",
+  "url": "https://github.com/lambda-client/ExamplePlugin",
+  "authors": [ "Blade" ],
+  "main_class": "com.lambda.ExamplePlugin",
+  "min_api_version": "3.2",
+  "hot_reload": true,
+  "required_plugins": []
+}
